@@ -8,3 +8,6 @@ fantastic!
 # 使用的编译器
 
 使用TexStudio，用XeLaTex编译.
+
+# 文件的分类
+数学分析笔记放置在analysis分支中（不在main分支）
