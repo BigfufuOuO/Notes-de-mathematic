@@ -8,3 +8,5 @@ fantastic!
 # 使用的编译器
 
 使用TexStudio，用XeLaTex编译.
+# 一些数学记号
+$LHS$表示等式左边的式子，$RHS$表示等式右边的式子.
