@@ -8,8 +8,3 @@ fantastic!
 # 使用的编译器
 
 使用TexStudio，用XeLaTex编译.
-# 一些数学记号
-
-$$
-\pm
-$$
