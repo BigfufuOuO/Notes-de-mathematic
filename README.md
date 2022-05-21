@@ -2,6 +2,7 @@
 fantastic!
 
 ### 笔记地址
+点击下面的链接下载：
 [数学分析笔记](https://github.com/BigfufuOuO/Notes-de-mathematic/releases/)
 ## 前言
 这是我的大学数学笔记。正在慢慢整理中。
