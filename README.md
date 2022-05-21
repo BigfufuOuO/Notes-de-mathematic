@@ -1,7 +1,8 @@
 # Notes-de-mathematic
 fantastic!
-笔记地址
-https://github.com/BigfufuOuO/Notes-de-mathematic/releases/
+
+### 笔记地址
+[数学分析笔记](https://github.com/BigfufuOuO/Notes-de-mathematic/releases/)
 ## 前言
 这是我的大学数学笔记。正在慢慢整理中。
 
